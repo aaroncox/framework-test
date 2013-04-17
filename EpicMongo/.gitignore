@@ -1,0 +1,4 @@
+tests/output
+tests/config.php
+build/
+cache.properties
